@@ -1,1 +1,3 @@
 Welcome Vettri Kaniyan
+
+Thanks for using GIT
