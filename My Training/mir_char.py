@@ -34,8 +34,8 @@
 
 
 def family():
-	male = ['Bala', 'Manoj', 'Vasu', 'Prabakaran']
-	female = ['Lavanyaa', 'Ramya', 'Kalaiselvi', 'Geethanjali']
+	male = ['Bala', 'Vasu', 'Manoj', 'Prabakaran']
+	female = ['Lavanyaa', 'Kalaiselvi', 'Ramya', 'Geethanjali']
 	kudumbam = dict(zip(male, female))
 	print(kudumbam)
 
